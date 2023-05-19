@@ -106,6 +106,8 @@ a {
 
 nav {
   margin: 1em 0 3em;
+  display: flex;
+  justify-content: space-between;
 }
 
 #notes-entry-container {
@@ -143,9 +145,4 @@ code {
 .invalid-link-brackets {
   color: #ccc;
   cursor: help;
-}
-
-.rightnav {
-  display:block;
-  float:right;
 }
