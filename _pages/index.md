@@ -5,15 +5,15 @@ id: home
 permalink: /
 ---
 
-# Hello, this is revelation place, a place where I speak to the void 🕳️
+# hello, welcome to the swamp 
+
+
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Take a look at <span style="font-weight: bold">[[start|I don't know what i'm doing but i'm doing it]]</span> to get started on your exploration.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+This place is an attempt to document my very time-limited toughts and things i encounter on the fabulous world wide web. I explain more about the why [[About|here]].
 
 <strong>Recently updated notes</strong>
 
