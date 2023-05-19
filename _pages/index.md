@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Hello, this is revelation place, a place where I speak with the void 🕳️
+# Hello, this is revelation place, a place where I speak to the void 🕳️
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
