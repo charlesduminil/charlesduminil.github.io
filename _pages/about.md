@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about
+permalink: /digitalgarden/about
 ---
 
 *This is an about page.*
