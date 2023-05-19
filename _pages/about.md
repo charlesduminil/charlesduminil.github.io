@@ -8,10 +8,4 @@ permalink: /about
 
 Feel free to tell the world about what you love! 😍
 
-# Hi, i'm someone, and i do things. 
-
-**Here something i did :
-**
-```python
-something
-```.
+What about this ??
