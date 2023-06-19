@@ -4,9 +4,9 @@ title: About
 permalink: /about
 ---
 
-# À propos de cette espace
+## À propos de cette espace
 
-Vous êtes à revelation.place, un espace digital qui sert d'archives pour mes pensées, idées, fabulations qui traversent mon esprit.
+Vous êtes à <strong>revelation.place</strong>, un espace digital qui sert d'archives pour mes pensées, idées, fabulations qui traversent mon esprit.
 
 Cherchant une solution pour combattre le destin inéluctable de ces pensées : c'est à dire l'immense frustration de les voir s'évaporer ou pire l'accumulation vaine de notes, captures d'écrans et feuilles volantes; j'ai découvert lors d'une énième errance internetastique les concept de jardin digital et de microblogging. 
 
